@@ -1,0 +1,1 @@
+chrome://flags/#disable-best-effort-tasks
